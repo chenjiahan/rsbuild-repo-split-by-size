@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrspack_repro=self.webpackChunkrspack_repro||[]).push([[166],{166:(e,r,s)=>{var n,p=s(474);s(727),p.Component,(n||(n=s.t(p,2))).startTransition,new Promise((()=>{})),p.Component}}]);
